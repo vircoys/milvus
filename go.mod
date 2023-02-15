@@ -26,8 +26,7 @@ require (
 	github.com/opentracing/opentracing-go v1.2.0
 	github.com/pierrec/lz4 v2.5.2+incompatible // indirect
 	github.com/pkg/errors v0.9.1
-	github.com/prometheus/client_golang v1.7.1
-	github.com/sirupsen/logrus v1.6.0 // indirect
+	github.com/prometheus/client_golang v1.11.1
 	github.com/spaolacci/murmur3 v1.1.0
 	github.com/spf13/cast v1.3.0
 	github.com/spf13/viper v1.7.1
@@ -43,8 +42,8 @@ require (
 	golang.org/x/lint v0.0.0-20200302205851-738671d3881b // indirect
 	golang.org/x/net v0.0.0-20201202161906-c7110b5ffcbb
 	golang.org/x/time v0.0.0-20191024005414-555d28b269f0 // indirect
+	google.golang.org/genproto v0.0.0-20200526211855-cb27e3aa2013 // indirect
 	google.golang.org/grpc v1.31.0
-	google.golang.org/protobuf v1.25.0 // indirect
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0
 	honnef.co/go/tools v0.0.1-2020.1.4 // indirect
 	sigs.k8s.io/yaml v1.2.0 // indirect
